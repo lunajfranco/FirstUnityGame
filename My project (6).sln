@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{618AA404-C303-DC6A-AA05-B45F03D8038B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_common", "gpm_common.csproj", "{1854F65E-BB37-9C85-77B7-C23BFBF3D06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpm_manager", "gpm_manager.csproj", "{DE37AAEA-228D-3FEA-7B34-F908A88EFF0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618AA404-C303-DC6A-AA05-B45F03D8038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618AA404-C303-DC6A-AA05-B45F03D8038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618AA404-C303-DC6A-AA05-B45F03D8038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618AA404-C303-DC6A-AA05-B45F03D8038B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1854F65E-BB37-9C85-77B7-C23BFBF3D06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1854F65E-BB37-9C85-77B7-C23BFBF3D06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1854F65E-BB37-9C85-77B7-C23BFBF3D06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1854F65E-BB37-9C85-77B7-C23BFBF3D06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE37AAEA-228D-3FEA-7B34-F908A88EFF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE37AAEA-228D-3FEA-7B34-F908A88EFF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE37AAEA-228D-3FEA-7B34-F908A88EFF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE37AAEA-228D-3FEA-7B34-F908A88EFF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
